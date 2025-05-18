@@ -65,7 +65,7 @@ const {courseInstructor: instructor} = course
 console.log(instructor);
 
 
-//API format
+//Json format
 // {
 //     "name": "sahil",
 //     "course" : "javascript",
